@@ -1,6 +1,6 @@
 # Distributed-Air-quality-Prediction-using-Machine-Learning
 
-Machine Learning Project
+Machine Learning Project 
 
 ## The diagram shows the main architecture of the project
 
